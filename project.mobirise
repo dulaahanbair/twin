@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-04-05_1056",
-    "currentPage": "tosluud.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -55,7 +55,7 @@
       }
     ],
     "imageResize": true,
-    "uniqCompNum": 35,
+    "uniqCompNum": 43,
     "versionPublish": "5.3.0",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -75,7 +75,8 @@
         "meta_descr": "Гэрэлт хотхон төсөл - Дахин төлөвлөлтийн төсөл.\nДэлгэрэнгүй....",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/162914614-810400766233485-2857766395514382025-n-96x54.jpg"
       },
       "components": [
         {
@@ -821,7 +822,7 @@
     },
     "tosluud.html": {
       "settings": {
-        "title": "tosluud",
+        "title": "dulaahanbair.mn - Төслүүд",
         "order": 1
       },
       "components": [
@@ -1088,7 +1089,7 @@
     },
     "tosol1.html": {
       "settings": {
-        "title": "tosol1",
+        "title": "dulaahanbair.mn - Төсөл 1",
         "order": 2
       },
       "components": [
@@ -1697,7 +1698,7 @@
     },
     "tosol2.html": {
       "settings": {
-        "title": "tosol2",
+        "title": "dulaahanbair.mn - Төсөл 2",
         "order": 3
       },
       "components": [
@@ -2337,8 +2338,8 @@
     },
     "tosol3.html": {
       "settings": {
-        "title": "tosol3",
-        "order": 4
+        "title": "dulaahanbair.mn - Төсөл 3",
+        "order": 5
       },
       "components": [
         {
@@ -2908,8 +2909,8 @@
     },
     "holboo.html": {
       "settings": {
-        "title": "holboo barih",
-        "order": 5
+        "title": "dulaahanbair.mn - Холбоо барих",
+        "order": 6
       },
       "components": [
         {
